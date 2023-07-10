@@ -25,11 +25,11 @@
 ##
 
 <div align="center"> 
+  <a href="https://www.linkedin.com/in/guilhermepichelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5511964106228" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gpichelli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/5wCrt3hZ" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:guilhermepichelli@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilhermepichelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/gpichelli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center"><img align="center" alt="gifWork" height="400" width="560" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-3.gif"/></div>
