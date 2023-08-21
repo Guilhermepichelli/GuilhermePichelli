@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/GuilhermePichelli"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePichelli&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePichelli&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePichelli&show_icons=true&theme=transparent""/>
 </div>
 
 ##
