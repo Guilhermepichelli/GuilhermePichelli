@@ -1,4 +1,4 @@
-<h3 align="center">🎯 Sou Guilherme Pichelli, estudante programação com foco em Front-End 🎯</h1>
+<h3 align="center">🎯 Sou Guilherme Pichelli, programador Front-End, com foco na especilização React e buscando o Fullstack 🎯</h1>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/guilhermepichelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5511964106228" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
@@ -18,7 +18,7 @@
 
 ##
 
-<div align="center"><p>🌱 Atualmente estudando React <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> e Vuejs <img align="center" alt="Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></p></div>
+<div align="center"><p>🌱 Atualmente me especialização em React <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> e Vuejs <img align="center" alt="Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></p></div>
 
 <div style="display: inline_block" align="center" ><br>
   <p>📚Conhecimentos📚</p>
